@@ -1,5 +1,5 @@
 
-    
+    /* MODIFICIÓN PARA RAMA */
      <?php
     
     /* clase Compte */
