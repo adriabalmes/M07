@@ -1,7 +1,7 @@
 
     
      <?php
-    
+    /*MODIFICACIIÓN SEBAS */    
     /* clase Compte */
     class Compte {
         private $nombre = "Alberto";
